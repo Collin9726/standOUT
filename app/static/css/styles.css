@@ -81,6 +81,31 @@ hr{
     height: 100%;
 }
 
+.jumbotron3{    
+    background-color: #dbe6e5;
+    color: black;
+    border-radius: 0em !important;
+    padding-left: 7% !important;
+    padding-right: 3% !important;    
+}
+
+.jumbotron3 p{
+    font-size: medium;
+}
+
+.jumbotron4{    
+    background-color: #dbe6e5;
+    color: black;
+    border-radius: 0em !important;
+    padding-left: 7% !important;
+    padding-right: 3% !important;
+    padding-top: 1em !important;    
+}
+
+.jumbotron4 p{
+    font-size: medium;
+}
+
 
 /* .card img{
     object-fit: cover;
@@ -96,35 +121,12 @@ hr{
     font-size: medium;
 }
 
-.jumbotron3{    
-    background-color: #dbe6e5;
-    color: black;
-    border-radius: 0em !important;
-    padding-left: 7% !important;
-    padding-right: 3% !important;    
-}
-
-.jumbotron3 p{
-    font-size: medium;
-}
 
 label{    
     font-weight: 600;
     font-size: large;
 }
 
-.jumbotron4{    
-    background-color: #dbe6e5;
-    color: black;
-    border-radius: 0em !important;
-    padding-left: 7% !important;
-    padding-right: 3% !important;
-    padding-top: 1em !important;    
-}
-
-.jumbotron4 p{
-    font-size: medium;
-}
 
 .headline a{
     color: rgb(14, 67, 121);
