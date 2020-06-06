@@ -71,6 +71,10 @@ hr{
     background-color: transparent;
 }
 
+.jumbotron2 p{
+    font-size: medium;
+}
+
 
 .row.display-flex {
     display: flex;
@@ -87,7 +91,8 @@ hr{
     border-radius: 0em !important;
     padding-left: 7% !important;
     padding-right: 3% !important;
-    padding-top: 1em !important;    
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;    
 }
 
 .jumbotron3 p{
@@ -105,6 +110,10 @@ hr{
 
 .jumbotron4 p{
     font-size: medium;
+}
+
+.padding{
+    margin-bottom: 1em;
 }
 
 
