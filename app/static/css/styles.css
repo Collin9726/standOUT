@@ -33,6 +33,10 @@ a :hover{
     margin-bottom: 2em;
 }
 
+.border-c{
+    border-bottom: 1px solid black;    
+}
+
 .jumbotron1{    
     background-color: #c3d6d5;
     color: black;
@@ -114,6 +118,16 @@ hr{
 
 .padding{
     margin-bottom: 1em;
+}
+
+
+.card{
+    padding-top: 3%;
+    padding-bottom: 3%;    
+}
+
+.card p{
+    font-size: medium;
 }
 
 
