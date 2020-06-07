@@ -107,5 +107,6 @@ def comment(pitch_id):
     comments=Comment.query.filter_by(pitch_id=pitch_id).order_by(Comment.posted.desc())  
     title = pitch.pitch_title
     return render_template('new_comment.html',title = title, comments=comments, comment_form=form, pitch=pitch, upvote_form=form1, downvote_form=form2)
+    
 
 
