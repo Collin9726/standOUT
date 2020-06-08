@@ -18,7 +18,7 @@ a {
 
 a :hover{
     text-decoration: none !important;
-    color: lightcyan;    
+    color: blue;    
 }
 
 .brand h1{     
@@ -90,7 +90,7 @@ hr{
 }
 
 .jumbotron3{    
-    background-color: #dbe6e5;
+    background-color: #c3d6d5;
     color: black;
     border-radius: 0em !important;
     padding-left: 7% !important;
@@ -104,7 +104,7 @@ hr{
 }
 
 .jumbotron4{    
-    background-color: #dbe6e5;
+    background-color: #c3d6d5;
     color: black;
     border-radius: 0em !important;
     padding-left: 7% !important;
@@ -128,6 +128,9 @@ hr{
     font-size: 3em !important;
 }
 
+.blue-link{
+    color: darkblue;
+}
 
 /* .card{
     padding-top: 3%;
